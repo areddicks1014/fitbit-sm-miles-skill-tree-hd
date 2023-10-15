@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0"
+  },
+  "fitbit": {
+    "appUUID": "579c6239-b87e-4d4a-9305-7d0635965682",
+    "appType": "clockface",
+    "appDisplayName": "SM Miles Skill Tree HD",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "SM Miles Skill Tree HD"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

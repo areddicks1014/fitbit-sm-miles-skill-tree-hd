@@ -1,0 +1,20 @@
+<svg class="sm-miles-skilltree">
+  <rect id="bg-top" x="0" y="0" height="225" width="336" fill="#061E30"></rect>
+  <rect id="bg-bottom"  x="0" y="224" height="110" width="336" fill="#400100"></rect>
+  <image id="bg" class="bg" x="0" y="0" href="images/SM_Miles_Skilltree_Sense_BG_Custom.png"/>
+  <text id="time" class="time" x="165" y="275">--:--</text>
+  <text id="date" class="date" x="165" y="310">--- --- --</text>
+  <rect id="battery-top" x="52" y="258" fill="white" width="10" height="2"></rect>
+  <rect id="battery-background" x="48" y="262" fill="white" width="18" height="24"></rect>
+  <rect id="battery-outline" x="50" y="264" fill="#172030" width="14" height="20"></rect>
+  <rect id="battery-meter" x="52" y="286" fill="fb-green" width="10" height="16"></rect>
+  <text id="battery-percent" class="stats-text" x="57" y="315">---</text>
+  <image id="heart-icon" class="stats-icon" x="259" y="259" href="images/icons/heart_rate_36px.png"/>
+  <text id="heart-rate" class="stats-text" x="274" y="314">---</text>
+  <image id="calories-icon" class="stats-icon" x="50" y="142" href="images/icons/stat_cals_solid_32px.png"/>
+  <text id="cals-burned" class="stats-text" x="64" y="209">----</text>
+  <image id="steps-icon" class="stats-icon" x="153" y="76" href="images/icons/steps_36px.png"/>
+  <text id="steps-taken" class="stats-text" x="168" y="140">-----</text>
+  <image id="active-mins-icon" class="stats-icon" x="262" y="142" href="images/icons/azm_36px.png"/>
+  <text id="active-mins" class="stats-text" x="276" y="209">----</text>
+</svg>

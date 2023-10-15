@@ -1,0 +1,28 @@
+.sm-miles-skilltree {
+  font-family: "Colfax-Regular";
+}
+
+.time {
+  width: 135;
+  font-size: 50;
+  text-anchor: middle;
+  fill: white;
+}
+
+.date {
+  font-size: 30;
+  text-anchor: middle;
+  fill: #cccccc;
+}
+
+.stats-text {
+  font-size: 21;
+  text-anchor: middle;
+  fill: white;
+}
+
+.stats-icon {
+  height: 30;
+  width: 30;
+  fill: white;
+}
